@@ -1,0 +1,4 @@
+repository "Green Games@GoldenHooded@cloud"
+  path "/"
+    br "/main"
+    co "/main"
